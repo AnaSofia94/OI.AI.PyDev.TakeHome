@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.git
+.gitignore
+tests/
+uploads/
+compressed_videos/
+uploaded_videos/
+video_metadata.db
